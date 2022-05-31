@@ -1,0 +1,7 @@
+Created a Stock Market Predictor for Artificial Intelligence class.
+
+● Defined constants that were used in data retrieval/processing and are used for regression analysis
+● Analyzed and pulled historical data from the Yahoo finance API (yfinance)
+● Prepared training data by initializing two empty lists then creating a loop with a specified range 
+● Utilized pandas to create truth values, compute models and produce clean data to help in machine learning
+● Ensured prediction accuracy by comparing prediction with real world data
